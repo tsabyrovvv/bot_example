@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Git
+.git
+.gitignore
+
+# Logs
+*.log
+
+# Docker files
+docker-compose.yaml
+Dockerfile
+.dockerignore
+
+# Environment variables
+.env
